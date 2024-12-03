@@ -1,0 +1,7 @@
+Vivado Simulator 2018.2
+Time resolution is 1 ps
+Writing to register  x:          0, x
+Writing to register  2:          2, 1
+Writing to register  3:          1, 1
+Writing to register  4:          3, 1
+$finish called at time : 450 ns : File "C:/Users/ADMIN/Vivado_project/r_type_datapath/r_type_datapath.srcs/sim_1/new/r_type_datapath_tb.v" Line 41

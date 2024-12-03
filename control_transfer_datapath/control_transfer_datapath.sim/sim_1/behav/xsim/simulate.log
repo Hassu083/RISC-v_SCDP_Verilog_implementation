@@ -1,0 +1,5 @@
+Vivado Simulator 2018.2
+Time resolution is 1 ps
+Writing to register  z:          z, 0
+Writing to register  z:          z, 0
+$finish called at time : 250 ns : File "C:/Users/ADMIN/Vivado_project/control_transfer_datapath/control_transfer_datapath.srcs/sim_1/new/control_transfer_datapath_tb.v" Line 60
